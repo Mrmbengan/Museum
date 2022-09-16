@@ -141,7 +141,7 @@
 
                         case "2":
 
-                            Console.WriteLine("going back to enterance");
+                            Console.WriteLine("going back to Enterance");
                             
                             break;
                     
