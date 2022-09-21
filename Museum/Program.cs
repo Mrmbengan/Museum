@@ -134,7 +134,7 @@
 
                         case "1":
 
-                            Console.WriteLine("You are now back in the Cafe, here you can get a cup of coffe");
+                            Console.WriteLine("You are now back in the Cafe, here you can get a cup of Coffe");
 
                             break;
 
